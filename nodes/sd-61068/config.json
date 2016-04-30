@@ -1,0 +1,10 @@
+{
+  "services":[
+       {
+         "name": "teamspeak3",
+         "version": "3.0.12.4"      
+       }
+    ],
+  "role":"FRONT",
+  "version":"1.0"
+}
