@@ -3,6 +3,10 @@
        {
          "name": "teamspeak3",
          "version": "3.0.12.4"      
+       },
+       {
+         "name":"influxdb",
+         "version":"0.12.2"
        }
     ],
   "role":"FRONT",
