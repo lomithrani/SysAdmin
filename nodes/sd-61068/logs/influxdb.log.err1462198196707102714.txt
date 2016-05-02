@@ -1,0 +1,1 @@
+"[run] 2016/05/02 15:43:36 InfluxDB starting, version 0.12.2, branch 0.12, commit 383332daed5595926c235f250b11433f67229c35\n[run] 2016/05/02 15:43:36 Go version go1.4.3, GOMAXPROCS set to 4\n[run] 2016/05/02 15:43:36 Using configuration at: /recoSys/influxdb/0.12.2/influxdb.config\nrun: parse config: open /recoSys/influxdb/0.12.2/influxdb.config: no such file or directory\n"
